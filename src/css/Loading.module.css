@@ -1,0 +1,13 @@
+.loading {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f6f8fa;
+}
+.loading span {
+  color: 262626;
+  font-family: "Courier New", Courier, monospace;
+}/*# sourceMappingURL=Loading.module.css.map */
